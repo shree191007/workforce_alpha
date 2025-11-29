@@ -11,7 +11,7 @@ A quantitative trading strategy that leverages alternative workforce data to pre
     - `optimizer.py`: Optimizes strategy parameters (quantile, smoothing).
     - `models.py`: SQLAlchemy database models.
 - `data/`: Directory for storing the SQLite database (excluded from git).
-- `notebooks/`: Jupyter notebooks for analysis.
+
 
 ## Getting Started
 
